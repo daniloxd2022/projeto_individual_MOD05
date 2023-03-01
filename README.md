@@ -4,4 +4,4 @@ Projeto individual do módulo 05 (Tecnologias server-side/back-end) da iniciativ
 Como rodar o programa?
 
 1. **npm install ou npm i** para baixar as dependências. <br/>
-2.  **node app.mjs** para rodar o programa.
+2.  **node app.mjs** para rodar a Aplicação.
